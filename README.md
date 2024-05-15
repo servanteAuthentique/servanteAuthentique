@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on front end and back end development, python programming 
 - 📫 How to reach me : izilabacarole@outlook.com
-- ⚡ Hobbies : I love listen to music, read books, study and watch movies
+- ⚡ My hobbies : music, read books, study and watch movies
 - 🗝️ My life device : BALANCE IS KEY
 - 🤍 My motto : In all things, be true and put your trust in God
 
